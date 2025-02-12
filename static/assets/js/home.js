@@ -15,7 +15,7 @@ if (
   setTimeout(() => {
     if (!popup || popup.closed) {
       alert(
-        "Please allow popups for this site. Doing so will allow us to open the site in a about:blank tab and preventing this site from showing up in your history. You can turn this off in the site settings.",
+        "alr please allow popups for this site. doing dat will allow us to open the site in a about:blank tab and preventing this site from showing up in your history lowk a W. btw you can turn this off in the site settings.",
       );
     } else {
       const doc = popup.document;
@@ -179,11 +179,11 @@ const SplashT = [
   "Made by xBubbo",
   "Check out discord.gg/interstellar :)",
   "Thanks for using the site",
-  "Follow us on Tiktok (@useinterstellar)",
-  "Subscribe to us on YouTube (@unblocking)",
-  "Subscribe to my Youtube (@xbubbo)",
+  "lol",
+  "follow me on bandlab itzleee",
+  "this was easy to make",
   "Check out the settings page",
-  "Check out our Patreon (https://www.patreon.com/gointerstellar)",
+  "the fog is coming",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
